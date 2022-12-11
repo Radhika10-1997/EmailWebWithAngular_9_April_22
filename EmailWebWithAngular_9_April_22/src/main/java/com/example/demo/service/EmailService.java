@@ -37,6 +37,9 @@
 
 
 
+
+
+
 //HOST SET
 //	 properties.put("mail.smpt.host", host);
 //	 properties.put("mail.smpt.port", "465");
