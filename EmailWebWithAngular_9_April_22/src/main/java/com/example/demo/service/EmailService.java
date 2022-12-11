@@ -27,7 +27,17 @@
 //	 
 //	 
 //	 
-//	 //HOST SET
+//	
+
+
+
+
+
+
+
+
+
+//HOST SET
 //	 properties.put("mail.smpt.host", host);
 //	 properties.put("mail.smpt.port", "465");
 //	 properties.put("mail.smpt.ssl.enable", "true");
